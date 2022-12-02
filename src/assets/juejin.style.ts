@@ -207,6 +207,7 @@ textarea {
   font-size: 15px;
   overflow-x: hidden;
   padding: 0 20px;
+  text-align: left;
 }
 .article-content h1 {
   margin: 1.3rem 0;
